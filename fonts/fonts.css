@@ -1,0 +1,9 @@
+@font-face {
+    font-family: ‘Fonseca’;
+    src: url(‘https://up2create.dk/kea/4-semester/eksamen/wordpress/wp-content/themes/Divi-child/fonts/Fonseca-Black.otf');
+
+}
+
+h1, h2 {
+    font-family: 'Fonseca';
+}

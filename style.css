@@ -10,3 +10,72 @@ Updated: 2022-05-17 09:56:42
 
 */
 
+.cmplz-terms-conditions {
+background-color:black;
+}
+
+body{
+	overflow-x:hidden;
+}
+
+body {
+
+margin: 0;
+
+height: 100vh;
+
+cursor: url(), auto;
+}
+ a:hover{
+
+cursor: url(), auto;
+
+}
+
+
+#et-top-navigation .et-cart-info{
+display:none;}
+
+@media only screen and (max-width: 1600px) {
+  .et_pb_blurb_description {
+    font-size:13px;
+  }
+}
+
+@media only screen and (min-width: 1000px) {
+	.et_pb_fullwidth_code_0 { margin-top:-51px;
+}
+	}
+
+
+@media only screen and (max-width: 499px) {
+	.et_pb_section_0 {
+    height:300px;
+  }
+}
+
+@media (max-width: 980px) {
+.et_pb_fullwidth_section {
+  padding: 4px;
+  height: 424px;
+}
+}
+
+.et_pb_section_0 {
+height:auto;
+}
+
+
+@media (max-width: 767px){
+.et_pb_slide_image, .et_pb_slide_video {
+	display:unset!important
+}
+}
+
+
+@font-face {
+  font-family: 'Fonseca';
+  font-style: black;
+  src: local('Fonseca Black'), local('Fonseca-Black'), url(https://up2create.dk/kea/4-semester/eksamen/wordpress/wp-content/themes/Divi-child/fonts/Fonseca-Black.woff2) format('woff2');
+  font-display: swap;
+}
